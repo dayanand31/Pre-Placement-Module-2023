@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++A
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: (https://leetcode.com/dayanand31/)
+- HackerRank:(https://www.hackerrank.com/dayanand31)
 
 ## Placement Module
 1. [DS I](https://github.com/dayanand31/Pre-Placement-Module-2023/tree/main/DS%20I)
